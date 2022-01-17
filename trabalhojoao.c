@@ -8,7 +8,7 @@ typedef struct
   int nif;
   char codigo[50];
   int tempo;
-  int distancia;ola
+  int distancia;
   int nrPedido;
 }Utilizacao;
 
